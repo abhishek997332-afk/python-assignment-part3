@@ -1,0 +1,2 @@
+[2026-03-30 22:14:33.955486] fetch ConnectionError HTTPSConnectionPool(host='this-host-does-not-exist-xyz.com', port=443): Max retries exceeded with url: /api (Caused by NameResolutionError("HTTPSConnection(host='this-host-does-not-exist-xyz.com', port=443): Failed to resolve 'this-host-does-not-exist-xyz.com' ([Errno 11001] getaddrinfo failed)"))
+[2026-03-30 22:14:36.469770] lookup HTTPError 404 product not found
